@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="story_item_width">112dp</dimen>
+
+    <dimen name="note_item_width">88dp</dimen>
+
+    <dimen name="explore_tile_height">200dp</dimen>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="wordmark">Instagram</string>
+    <string name="your_story">Your story</string>
+    <string name="search">Search</string>
+    <string name="reels">Reels</string>
+    <string name="follow">Follow</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="share_profile">Share profile</string>
+    <string name="new_highlight">New</string>
+    <string name="cd_icon">Icon</string>
+    <string name="cd_photo">Photo</string>
+    <string name="cd_avatar">Avatar</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="your_note">Your note</string>
+    <string name="leave_note">Leave a note</string>
+    <string name="chat_time">· %1$s</string>
+</resources>

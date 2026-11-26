@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ig_black">#FF000000</color>
+    <color name="ig_surface">#FF121212</color>
+    <color name="ig_white">#FFFFFFFF</color>
+    <color name="ig_grey">#FFA8A8A8</color>
+    <color name="ig_divider">#FF262626</color>
+    <color name="ig_blue">#FF0095F6</color>
+    <color name="ig_like">#FFED4956</color>
+    <color name="ig_ring_a">#FFFEDA75</color>
+    <color name="ig_ring_c">#FFD62976</color>
+    <color name="ig_ring_e">#FF4F5BD5</color>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/ig_black"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/tabHome"
+        style="@style/IgTabIcon"
+        android:contentDescription="@string/cd_icon"
+        android:src="@drawable/ic_home_filled" />
+
+    <ImageView
+        android:id="@+id/tabReels"
+        style="@style/IgTabIcon"
+        android:contentDescription="@string/cd_icon"
+        android:src="@drawable/ic_reels" />
+
+    <ImageView
+        android:id="@+id/tabMessages"
+        style="@style/IgTabIcon"
+        android:contentDescription="@string/cd_icon"
+        android:src="@drawable/ic_send" />
+
+    <ImageView
+        android:id="@+id/tabSearch"
+        style="@style/IgTabIcon"
+        android:contentDescription="@string/cd_icon"
+        android:src="@drawable/ic_search" />
+
+    <ImageView
+        android:id="@+id/tabProfile"
+        style="@style/IgTabIcon"
+        android:contentDescription="@string/cd_icon"
+        android:src="@drawable/ic_person" />
+
+</LinearLayout>
